@@ -1,0 +1,26 @@
+{
+  "name": "technology-api",
+  "version": "1.0.0",
+  "description": "An api which shows all the latest technology with details",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshvasnik/Technology-Api.git"
+  },
+  "author": "Lokesh Vasnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokeshvasnik/Technology-Api/issues"
+  },
+  "homepage": "https://github.com/lokeshvasnik/Technology-Api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
