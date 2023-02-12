@@ -7,10 +7,8 @@ Eg. C++, React,Go etc
 
 
 
-## Checkout 
-
-/front-end-technologies
-/back-end-technologies
+## How it will be
+![](https://github.com/lokeshvasnik/ImageUrl/blob/main/readme.png)
 
 
 ## Features
